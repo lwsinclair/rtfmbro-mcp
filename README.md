@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/marckrenn-rtfmbro-mcp-badge.png)](https://mseep.ai/app/marckrenn-rtfmbro-mcp)
+
 # rtfmbro-mcp
 
 > rtfmbro provides always-up-to-date, version-specific package documentation as context for coding agents. An alternative to [context7](https://github.com/upstash/context7).
